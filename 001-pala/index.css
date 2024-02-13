@@ -1,0 +1,37 @@
+/*
+コメントが書けます
+
+*/
+* {
+    margin: 0;
+    padding: 0;
+}
+h2{
+        color:  #007700;
+        text-align: center;
+}
+h3{
+        color:  #cd6524;
+        text-align: center;
+}
+.header {
+      background-color: #3a3939;
+        color:  #c5ed93;
+        text-align: center;
+}
+.main1 {
+        color:  #1cdf33;
+        text-align: center;
+}
+.main2 {
+        color:  #92ab17;
+        text-align: center;
+}
+.footer {
+        color:  #170434;
+        text-align: center;
+}
+#baseball {
+        color:  #0d032c;
+        text-align: center;
+}
